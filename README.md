@@ -1,2 +1,2 @@
 ﻿# SolidityTutorial
-Pequeña introducción a los contratos en Solidity
+Pequeña introducción a los Smart Contracts en Solidity
